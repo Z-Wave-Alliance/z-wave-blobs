@@ -1,13 +1,13 @@
 # Z-WAVE-BLOBS
 
-Z-Wave project is hosted by Z-Wave alliance,
-initial code has been donated by SiliconLabs under BSD-3-Clause license.
+This Z-Wave project is hosted by the Z-Wave Alliance,
+initial code has been donated by SiliconLabs under the BSD-3-Clause license.
 
-For historical/technical reasons some parts were/are/will be shared as binaries,
+For historical/technical reasons, some parts were/are/will be shared as binaries,
 this is a major issue to address for sustainability of the project.
 
-To avoid tainting others sources' repositories,
-this repository has been created to isolate binaries files
+To avoid tainting other repositories,
+this repository has been created to isolate binary files
 (at least until a way is found to regenerate them from BSD-licensed sources).
 
 Per the decision of the
