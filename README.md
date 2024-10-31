@@ -17,3 +17,14 @@ under the following guidelines described in [[./CONTRIBUTING]] file.
 
 The long-term strategy is to remove dependencies from binaries
 and replace the binaries with the source code, under the BSD-3 license if possible.
+
+
+## Legal info
+
+Please refer to *.license files to know which license is applied, full text is in LICENSES folder.
+
+While other files are aligned to default Z-Wave-Alliance licensing.
+
+SPDX-License-Identifier: BSD-3-Clause
+
+SPDX-FileCopyrightText: 2024 Z-Wave Alliance

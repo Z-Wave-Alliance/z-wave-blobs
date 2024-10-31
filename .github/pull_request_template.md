@@ -1,4 +1,10 @@
 <!--
+SPDX-FileCopyrightText: 2024 Z-Wave-Alliance <https://z-wavealliance.org/>
+
+SPDX-License-Identifier: BSD-3-Clause
+-->
+
+<!--
   This is a reminder that all Z-Wave Alliance activities are subject to strict
   compliance with the Z-Wave Antitrust Policy (https://sdomembers.z-wavealliance.org/wg/Members/document/56)
   and IPR Policy (https://sdomembers.z-wavealliance.org/wg/Members/document/43).

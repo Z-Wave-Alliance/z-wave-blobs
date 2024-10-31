@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2024 Z-Wave-Alliance <https://z-wavealliance.org/>
+
+SPDX-License-Identifier: BSD-3-Clause
+-->
+
 # Contributing to z-wave-blobs
 
 All types of contributions are encouraged and valued. 
