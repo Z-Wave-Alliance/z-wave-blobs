@@ -1,0 +1,28 @@
+# YAML -*- mode: yaml; tab-width: 2; indent-tabs-mode: nil; coding: utf-8 -*-
+# SPDX-License-Identifier: BSD-3-Clause
+# SPDX-FileCopyrightText: 2024 Z-Wave Alliance
+# Demo copied from https://docs.github.com/en/actions/quickstart
+---
+name: Process z-wave-blobs
+run-name: ${{ github.actor }} is processing z-wave-blobs
+
+on:  # yamllint disable-line rule:truthy
+  pull_request:
+    branches:
+      - main
+  push:
+  workflow_dispatch:
+
+jobs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ${{  env.debian_packages }}
+        env:
+          debian_packages: reuse
+      - name: Check out repository code
+        uses: actions/checkout@v4
+      - name: Legal check
+        run: reuse lint
