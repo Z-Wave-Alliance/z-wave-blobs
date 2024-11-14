@@ -13,7 +13,7 @@ this repository has been created to isolate binary files
 Per the decision of the
 [Z-Wave Technical committee 2024.10.16](https://sdomembers.z-wavealliance.org/wg/TechComm/document/folder/968)
 OSWG suggested allowing binaries as a short-term solution
-under the following guidelines described in [[./CONTRIBUTING]] file.
+under the following guidelines described in [CONTRIBUTING](./CONTRIBUTING.md) file.
 
 The long-term strategy is to remove dependencies from binaries
 and replace the binaries with the source code, under the BSD-3 license if possible.
