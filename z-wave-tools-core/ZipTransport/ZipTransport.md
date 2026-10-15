@@ -57,5 +57,4 @@ SiliconLabs has the ZipTransport sources to rebuild ziptrans dlls
 ## License
 
 SPDX-License-Identifier: BSD-3-Clause
-
-SPDX-FileCopyrightText: Silicon Laboratories Inc. https://www.silabs.com
+SPDX-FileCopyrightText: Silicon Laboratories Inc. <https://www.silabs.com>

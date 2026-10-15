@@ -39,5 +39,4 @@ platform with CLANG. This library is available in the SimplicityStudio's PC Znif
 ## License
 
 SPDX-License-Identifier: BSD-3-Clause
-
-SPDX-FileCopyrightText: Silicon Laboratories Inc. https://www.silabs.com
+SPDX-FileCopyrightText: Silicon Laboratories Inc. <https://www.silabs.com>

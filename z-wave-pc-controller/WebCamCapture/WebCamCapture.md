@@ -60,5 +60,4 @@ SiliconLabs sources are lost, it might be easier to consider the following optio
 Check related licences files next to binaries.
 
 SPDX-License-Identifier: BSD-3-Clause
-
-SPDX-FileCopyrightText: Silicon Laboratories Inc. https://www.silabs.com
+SPDX-FileCopyrightText: Silicon Laboratories Inc. <https://www.silabs.com>

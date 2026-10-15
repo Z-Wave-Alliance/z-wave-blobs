@@ -1,8 +1,9 @@
 # https://github.com/Z-Wave-Alliance/z-wave-blobs/pull/14
-SPDX-FileCopyrightText: Silicon Laboratories Inc <https://www.silabs.com/>
 SPDX-License-Identifier: BSD-3-Clause
+SPDX-FileCopyrightText: Silicon Laboratories Inc. <https://www.silabs.com>
 
 # https://github.com/libusb/libusb/tree/v1.0.22/
+SPDX-License-Identifier: LGPL-2.1-or-later
 SPDX-FileCopyrightText: Chris Dickens <christopher.a.dickens@gmail.com>
 SPDX-FileCopyrightText: Daniel Drake <dsd@gentoo.org>
 SPDX-FileCopyrightText: Hans de Goede <hdegoede@redhat.com>
@@ -14,8 +15,7 @@ SPDX-FileCopyrightText: Nathan Hjelm <hjelmn@users.sourceforge.net>
 SPDX-FileCopyrightText: Pete Batard <pete@akeo.ie>
 SPDX-FileCopyrightText: Peter Stuge <peter@stuge.se>
 SPDX-FileCopyrightText: Toby Gray <toby.gray@realvnc.com>
-SPDX-License-Identifier: LGPL-2.1-or-later
 
 # https://github.com/chriskohlhoff/asio/tree/asio-1-12-2/
-SPDX-FileCopyrightText: Christopher M. Kohlhoff (chris at kohlhoff dot com)
 SPDX-License-Identifier: BSL-1.0
+SPDX-FileCopyrightText: Christopher M. Kohlhoff (chris at kohlhoff dot com)

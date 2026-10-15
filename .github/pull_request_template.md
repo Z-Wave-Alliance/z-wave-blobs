@@ -1,7 +1,6 @@
 <!--
-SPDX-FileCopyrightText: 2024 Z-Wave-Alliance <https://z-wavealliance.org/>
-
 SPDX-License-Identifier: BSD-3-Clause
+SPDX-FileCopyrightText: Z-Wave Alliance <https://z-wavealliance.org>
 -->
 
 <!--

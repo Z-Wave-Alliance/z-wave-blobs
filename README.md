@@ -26,5 +26,4 @@ Please refer to *.license files to know which license is applied, full text is i
 While other files are aligned to default Z-Wave-Alliance licensing.
 
 SPDX-License-Identifier: BSD-3-Clause
-
-SPDX-FileCopyrightText: 2024 Z-Wave Alliance
+SPDX-FileCopyrightText: Z-Wave Alliance <https://z-wavealliance.org>
