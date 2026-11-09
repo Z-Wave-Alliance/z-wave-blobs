@@ -44,4 +44,4 @@ SPDX-FileCopyrightText: Z-Wave Alliance <https://z-wavealliance.org>
 - [ ] I agree to the [Developer Certificate of Origin][dco]
 
 [contribution-guidelines]: https://github.com/Z-Wave-Alliance/z-wave-blobs/blob/main/CONTRIBUTING.md
-[dco]: https://github.com/Z-Wave-Alliance/OSWG/blob/main/developer_certificate_of_origin.md
+[dco]: https://github.com/Z-Wave-Alliance/open-source-working-group/blob/main/developer_certificate_of_origin.md
