@@ -1,0 +1,165 @@
+SIMPLICITY STUDIO TERMS OF USE AND PRIVACY STATEMENT
+Version 20170905
+BY USING SIMPLICITY STUDIO OR BY CLICKING "I ACCEPT THE TERMS OF USE", YOU ACCEPT AND AGREE TO BE BOUND AND ABIDE BY THESE TERMS OF USE AND PRIVACY STATEMENT. IF YOU DO NOT WANT TO AGREE TO THESE TERMS OF USE AND PRIVACY STATEMENT, YOU MUST EXIT SIMPLICITY STUDIO AND NOT ACCESS OR USE SIMPLICITY STUDIO. 
+THESE TERMS OF USE COVER SOFTWARE, DOCUMENTATION AND TOOLS OFFERED BY SILICON LABORATORIES INC. ("SILICON LABS") AND THIRD PARTIES FROM WHOM SILICON LABS HAS OBTAINED A LICENSE TO DISTRIBUTE (COLLECTIVELY "THE LICENSED PRODUCTS"). IT APPLIES TO MULTIPLE SOFTWARE TYPES. YOUR RIGHTS AND OBLIGATIONS FOR EACH TYPE OF SOFTWARE ARE STATED BELOW. IT APPLIES TO LICENSED PRODUCTS THAT YOU DONWLOAD NOW OR IN THE FUTURE, INCLUDING ALL UPDATES AND VERSIONS.
+YOUR USE OF THE LICENSED PRODUCT IS SUBJECT TO THE FOLLOWING TERMS AND CONDITIONS. CLICKING "I AGREE" OR "ACCEPT" BELOW INDICATES YOUR (AND IF APPLICABLE, YOUR EMPLOYER'S) ACCEPTANCE OF THESE TERMS AND CONDITIONS.  IF YOU DO NOT AGREE WITH ALL OF THESE TERMS, DO NOT USE ALL OR ANY PART OF THE LICENSED PRODUCTS.  
+Acceptance of the Terms of Use
+These Terms of Use are between you and Silicon Laboratories Inc., whose principal office is located at 400 W. Cesar Chavez, Austin, TX 78701 and its affiliates ("Silicon Labs", "we" or "us"). The following terms and conditions ("Terms of Use"), govern your access to and use of Simplicity Studio, including any content, functionality and services offered on or through Simplicity Studio.
+IF YOU ARE AN INDIVIDUAL USING SIMPLICITY STUDIO FOR THE BENEFIT YOUR EMPLOYER, A COMPANY OR ANOTHER LEGAL ENTITY, YOU REPRESENT THAT YOU HAVE THE AUTHORITY TO BIND SUCH ENTITY AND ITS AFFILIATES TO THESE TERMS OF USE, IN WHICH CASE THE TERMS "YOU" OR "YOUR" SHALL REFER TO SUCH ENTITY AND ITS AFFILIATES.  IF YOU DO NOT HAVE SUCH AUTHORITY, OR IF YOU DO NOT AGREE WITH THESE TERMS OF USE, YOU MUST NOT ACCEPT THESE TERMS OF USE AND MAY NOT USE SIMPLICITY STUDIO.  YOU REPRESENT THAT YOU ARE OVER THE AGE OF 17 AND WARRANT THAT YOU ARE OF LEGAL AGE TO FORM A BINDING CONTRACT WITH SILICON LABS.  
+Changes to the Terms of Use
+We may revise and update these Terms of Use from time to time in our sole discretion. All changes are effective immediately when we post them, and apply to all access to and use of Simplicity Studio thereafter.  However, any changes to the dispute resolution provisions set forth in Governing Law and Jurisdiction will not apply to any disputes for which the parties have actual notice prior to the date the change is posted on Simplicity Studio. 
+Your continued use of Simplicity Studio following the posting of revised Terms of Use means that you accept and agree to the changes. You are expected to check this page from time to time so you are aware of any changes, as they are binding on you. 
+SIMPLICITY TOOLS
+The following terms and conditions apply to the following types of Licensed Products available within the Simplicity Studio development environment including, but not limited to, Energy Profiler, Network Analyzer, AppBuilder, Xpress Configurator and Hardware Configurator ("Simplicity Tools"):
+* You may use Simplicity Tools to assist you in your development of Authorized Applications.
+* You may make multiple copies of Simplicity Tools on computers within your possession or control.
+* You may not sell, lease, sublicense, distribute or transfer Simplicity Tools to any third party except to an Authorized Subcontractor.
+* You may not modify Simplicity Tools except as necessary for their intended use.
+* Silicon Labs does not warrant that the Simplicity Tools will meet your requirements or that operation of the Simplicity Tools will be uninterrupted or that any software will be error-free.  You agree that the Simplicity Tools are provided "AS IS" and that Silicon Labs makes no warranties as to the Simplicity Tools. SILICON LABS DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT, RELATED TO THE SIMPLICITY TOOLS AND ANY USE, INABILITY TO USE, OR RESULTS FROM USING THE SIMPLICITY TOOLS. 
+* Silicon Labs is not obligated to provide any technical support to you.  To the extent that Silicon Labs provides any technical support to you, such support is provided "as-is" without any warranties.  Technical support is not a substitute for your own obligation to test your products.  Silicon Labs is not obligated to sell any Silicon Labs devices or modules to you.  Such sales, if any, shall be governed by Silicon Labs Terms and Conditions of Sale or by the terms and conditions applicable between you and the Silicon Labs distributor from whom you purchased the products.
+SIMPLICITY STUDIO
+The following terms apply to your use of Simplicity Studio:
+Accessing Simplicity Studio and Account Security
+We reserve the right to withdraw or amend Simplicity Studio, and any service or material we provide on Simplicity Studio, in our sole discretion without notice. We will not be liable if for any reason all or any part of Simplicity Studio is unavailable at any time or for any period. From time to time, we may restrict access to some parts of Simplicity Studio, to users, including registered users.
+To access Simplicity Studio or some of the resources it offers, you may be asked to provide certain registration details or other information. It is a condition of your use of Simplicity Studio that all the information you provide on Simplicity Studio is correct, current and complete. You agree that all information you provide to register with Simplicity Studio or otherwise, including but not limited to through the use of any interactive features on Simplicity Studio, is governed by our Privacy Statement (below), and you consent to all actions we take with respect to your information consistent with our Privacy Statement.
+If you choose, or are provided with, a user name, password or any other piece of information as part of our security procedures, you must treat such information as confidential, and you must not disclose it to any other person or entity. You also acknowledge that your account is personal to you and agree not to provide any other person with access to Simplicity Studio or portions of it using your user name, password or other security information. You agree to notify us immediately of any unauthorized access to or use of your user name or password or any other breach of security. You also agree to ensure that you exit from your account at the end of each session. 
+We have the right to disable any user name, password or other identifier, whether chosen by you or provided by us, at any time in our sole discretion for any or no reason, including if, in our opinion, you have violated any provision of these Terms of Use.
+Electronic Communications
+Visiting Simplicity Studio or sending us an e-mail is an electronic communication. You consent to receive electronic communications from us through e-mail and website postings. You agree that such electronic communications satisfy any legal requirement that agreements, notices, disclosures, or other communications be in writing.
+Intellectual Property Rights
+Simplicity Studio and its entire contents, features and functionality (including but not limited to all information, software, text, displays, images, video and audio, and the design, selection and arrangement thereof), are owned by Silicon Labs, its licensors or other providers of such material and are protected by United States and international copyright, trademark, patent, trade secret and other intellectual property or proprietary rights laws.
+These Terms of Use permit you to use Simplicity Studio solely to design applications that utilize Silicon Labs' software and Silicon Labs' integrated circuits and modules systems.  No other commercial use of Simplicity Studio is permitted. You must not reproduce, distribute, modify, create derivative works of, publicly display, publicly perform, republish, download, store or transmit any of the material on Simplicity Studio, except as follows:
+* Your computer may temporarily store copies of such materials in RAM or physical storage incidental to your accessing and viewing those materials.
+* You may store files that are created by Simplicity Studio for the purpose of developing your applications.
+* You may download multiple copies of Simplicity Studio for the purpose of developing your applications.
+* If we provide applications for download, you may download multiple copies for commercial applications provided you agree to be bound by our end user license agreement for such applications.
+You must not:
+* Modify copies of Simplicity Studio.
+* Use any illustrations, photographs, video or audio sequences or any graphics separately from the accompanying text for your own personal use and without attribution to Silicon Labs.
+* Delete or alter any copyright, trademark or other proprietary rights notices from copies of materials from Simplicity Studio
+Except as provided above, you must not access or use for any commercial purposes any part of Simplicity Studio or any services or materials available through Simplicity Studio. 
+If you print, copy, modify, download or otherwise use or provide any other person with access to any part of Simplicity Studio in breach of these Terms of Use, your right to use Simplicity Studio will cease immediately and you must, at our option, return or destroy any copies of the materials you have made. No right, title or interest in or to Simplicity Studio or any content on Simplicity Studio is transferred to you, and all rights not expressly granted are reserved by Silicon Labs. Any use of Simplicity Studio not expressly permitted by these Terms of Use is a breach of these Terms of Use and may violate copyright, trademark and other laws.
+Trademarks
+Silicon Labs, the terms Simplicity Studio, the Silicon Labs "S" logo and all related names, logos, product and service names, designs and slogans are trademarks of Silicon Labs or its affiliates or licensors. You must not use such marks without the prior written permission of Silicon Labs. All other names, logos, product and service names, designs and slogans on Simplicity Studio are the trademarks of their respective owners.
+Prohibited Uses
+You may use Simplicity Studio only for lawful purposes and in accordance with these Terms of Use. You agree not to use Simplicity Studio:
+* In any way that violates any applicable federal, state, local or international law or regulation (including, without limitation, any laws regarding the export of data or software to and from the US or other countries). 
+* For the purpose of exploiting, harming or attempting to exploit or harm minors in any way by exposing them to inappropriate content, asking for personally identifiable information or otherwise.
+* To impersonate or attempt to impersonate Silicon Labs, a Silicon Labs employee, another user or any other person or entity (including, without limitation, by using e-mail addresses or screen names associated with any of the foregoing).
+* To engage in any other conduct that restricts or inhibits anyone's use or enjoyment of Simplicity Studio, or which, as determined by us, may harm Silicon Labs or users of Simplicity Studio or expose them to liability.
+Additionally, you agree not to:
+* Use any manual process to monitor or copy any of the material on Simplicity Studio or for any other unauthorized purpose without our prior written consent.
+* Use any device, software or routine that interferes with the proper working of Simplicity Studio.
+* Introduce any viruses, Trojan horses, worms, logic bombs or other material which is malicious or technologically harmful.
+* Attempt to gain unauthorized access to, interfere with, damage or disrupt any parts of Simplicity Studio, the server on which Simplicity Studio is stored, or any server, computer or database connected to Simplicity Studio. 
+* Otherwise attempt to interfere with the proper working of Simplicity Studio.
+Open Source Components
+Notwithstanding the software licenses granted in these Terms of Use, you acknowledge that certain components of software may be covered by so-called "open source" software licenses ("Open Source Components"), which means any software licenses approved as open source licenses by the Open Source initiative or any substantially similar licenses, including without limitation any license that, as a condition of distribution of the software licensed under such license, requires that the distributor make the software available in source code format. To the extent required by the licenses covering Open Source Components, the terms of such license will apply in lieu of the software license grants in these Terms of Use. To the extent the terms of the licenses applicable to Open Source Components prohibit any of the restrictions in these Terms of Use with respect to such Open Source Component, such restrictions will not apply to such Open Source Component.
+Reliance on Information Posted
+The information presented on or through Simplicity Studio is made available solely for general information purposes. We do not warrant the accuracy, completeness or usefulness of this information. Any reliance you place on such information is strictly at your own risk. We disclaim all liability and responsibility arising from any reliance placed on such materials by you or any other visitor to Simplicity Studio, or by anyone who may be informed of any of its contents.
+Simplicity Studio may include content provided by third parties, including our third-party licensors. All statements and/or opinions expressed in these materials, and all articles and responses to questions and other content, other than the content provided by Silicon Labs, are solely the opinions and the responsibility of the person or entity providing those materials. These materials do not necessarily reflect the opinion of Silicon Labs. We are not responsible, or liable to you or any third party, for the content or accuracy of any materials provided by any third parties.
+Changes to Simplicity Studio
+We may update the content on Simplicity Studio from time to time, but its content is not necessarily complete or up-to-date. Any of the material on Simplicity Studio may be out of date at any given time, and we are under no obligation to update such material. 
+Information About You and Your Visits to Simplicity Studio
+All information we collect on Simplicity Studio is subject to our Privacy Statement (see below). By using Simplicity Studio, you consent to all actions taken by us with respect to your information in compliance with the Privacy Statement. 
+Links from Simplicity Studio
+If Simplicity Studio contains links to other websites and resources provided by third parties, these links are provided for your convenience only. This includes links contained in advertisements, including banner advertisements and sponsored links. We have no control over the contents of those sites or resources, and accept no responsibility for them or for any loss or damage that may arise from your use of them. If you decide to access any of the third party websites linked to Simplicity Studio, you do so entirely at your own risk and subject to the terms and conditions of use for such websites.
+Disclaimer of Warranties
+You understand that we cannot and do not guarantee or warrant that files available for downloading from the Simplicity Studio will be free of viruses or other destructive code. You are responsible for implementing sufficient procedures and checkpoints to satisfy your particular requirements for anti-virus protection and accuracy of data input and output, and for maintaining a means external to Simplicity Studio for any reconstruction of any lost data. WE WILL NOT BE LIABLE FOR ANY LOSS OR DAMAGE CAUSED BY A DISTRIBUTED DENIAL-OF-SERVICE ATTACK, VIRUSES OR OTHER TECHNOLOGICALLY HARMFUL MATERIAL THAT MAY INFECT YOUR COMPUTER EQUIPMENT, COMPUTER PROGRAMS, DATA OR OTHER PROPRIETARY MATERIAL DUE TO YOUR USE OF SIMPLICITY STUDIO OR ANY SERVICES OR ITEMS OBTAINED THROUGH SIMPLICITY STUDIO OR TO YOUR DOWNLOADING OF ANY MATERIAL POSTED ON IT, OR ON ANY WEBSITE IT LINKS TO.
+YOUR USE OF SIMPLICITY STUDIO, ITS CONTENT AND ANY SERVICES OR ITEMS OBTAINED THROUGH SIMPLICITY STUDIO IS AT YOUR OWN RISK. SIMPLICITY STUDIO, ITS CONTENT AND ANY SERVICES OR ITEMS OBTAINED THROUGH SIMPLICITY STUDIO ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS, WITHOUT ANY WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED. NEITHER SILICON LABS NOR ANY PERSON ASSOCIATED WITH SILICON LABS MAKES ANY WARRANTY OR REPRESENTATION WITH RESPECT TO THE COMPLETENESS, SECURITY, RELIABILITY, QUALITY, ACCURACY OR AVAILABILITY OF SIMPLICITY STUDIO. WITHOUT LIMITING THE FOREGOING, NEITHER SILICON LABS NOR ANYONE ASSOCIATED WITH SILICON LABS REPRESENTS OR WARRANTS THAT SIMPLICITY STUDIO, ITS CONTENT OR ANY SERVICES OR ITEMS OBTAINED THROUGH SIMPLICITY STUDIO WILL BE ACCURATE, RELIABLE, ERROR-FREE OR UNINTERRUPTED, THAT DEFECTS WILL BE CORRECTED, THAT SIMPLICITY STUDIO OR THE SERVER THAT MAKES IT AVAILABLE ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS OR THAT SIMPLICITY STUDIO OR ANY SERVICES OR ITEMS OBTAINED THROUGH SIMPLICITY STUDIO WILL OTHERWISE MEET YOUR NEEDS OR EXPECTATIONS. 
+SILICON LABS HEREBY DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, STATUTORY OR OTHERWISE, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, NON-INFRINGEMENT AND FITNESS FOR A PARTICULAR PURPOSE.
+THE FOREGOING DOES NOT AFFECT ANY WARRANTIES WHICH CANNOT BE EXCLUDED OR LIMITED UNDER APPLICABLE LAW.
+Limitation of Liability
+IN NO EVENT WILL SILICON LABS, ITS AFFILIATES OR THEIR LICENSORS, SERVICE PROVIDERS, EMPLOYEES, AGENTS, OFFICERS OR DIRECTORS BE LIABLE FOR DAMAGES OF ANY KIND, UNDER ANY LEGAL THEORY, ARISING OUT OF OR IN CONNECTION WITH YOUR USE, OR INABILITY TO USE, SIMPLICITY STUDIO, ANY WEBSITES IT LINKS TO, ANY CONTENT ON SIMPLICITY STUDIO OR SUCH OTHER WEBSITES OR ANY SERVICES OR ITEMS OBTAINED THROUGH SIMPLICITY STUDIO OR SUCH OTHER WEBSITES, INCLUDING ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO, PERSONAL INJURY, PAIN AND SUFFERING, EMOTIONAL DISTRESS, LOSS OF REVENUE, LOSS OF PROFITS, LOSS OF BUSINESS OR ANTICIPATED SAVINGS, LOSS OF USE, LOSS OF GOODWILL, LOSS OF DATA, AND WHETHER CAUSED BY TORT (INCLUDING NEGLIGENCE), BREACH OF CONTRACT OR OTHERWISE, EVEN IF FORESEEABLE.
+THE FOREGOING DOES NOT AFFECT ANY LIABILITY WHICH CANNOT BE EXCLUDED OR LIMITED UNDER APPLICABLE LAW.
+Indemnification
+You agree to defend, indemnify and hold harmless Silicon Labs, its affiliates, licensors and service providers, and its and their respective officers, directors, employees, contractors, agents, licensors, suppliers, successors and assigns from and against any claims, liabilities, damages, judgments, awards, losses, costs, expenses or fees (including reasonable attorneys' fees) arising out of or relating to your violation of these Terms of Use or your use of Simplicity Studio, including, but not limited to, your User Contributions, any use of Simplicity Studio's content, services and products other than as expressly authorized in these Terms of Use or your use of any information obtained from Simplicity Studio.
+Governing Law and Jurisdiction
+All matters relating to Simplicity Studio and these Terms of Use and any dispute or claim arising therefrom or related thereto (in each case, including non-contractual disputes or claims), shall be governed by and construed in accordance with the internal laws of the State of Texas without giving effect to any choice or conflict of law provision or rule (whether of the State of Texas or any other jurisdiction).
+Any legal suit, action or proceeding arising out of, or related to, these Terms of Use or Simplicity Studio shall be instituted exclusively in the federal courts of the United States or the courts of the State of Texas and Travis County although we retain the right to bring any suit, action or proceeding against you for breach of these Terms of Use in your country of residence or any other relevant country. You waive any and all objections to the exercise of jurisdiction over you by such courts and to venue in such courts.
+Arbitration
+You agree to submit any disputes arising from these Terms of Use or the use of Simplicity Studio, including disputes arising from or concerning their interpretation, violation, invalidity, non-performance, or termination, to final and binding arbitration under the Commercial Rules of Arbitration of the American Arbitration Association applying Texas law.  You agree that the decision of the arbitration may be entered as a judgement in any court having jurisdiction.
+Limitation on Time to File Claims
+ANY CAUSE OF ACTION OR CLAIM YOU MAY HAVE ARISING OUT OF OR RELATING TO THESE TERMS OF USE OR SIMPLICITY STUDIO MUST BE COMMENCED WITHIN ONE (1) YEAR AFTER THE CAUSE OF ACTION ACCRUES, OTHERWISE, SUCH CAUSE OF ACTION OR CLAIM IS PERMANENTLY BARRED.
+Waiver and Severability
+No waiver of by Silicon Labs of any term or condition set forth in these Terms of Use shall be deemed a further or continuing waiver of such term or condition or a waiver of any other term or condition, and any failure of Silicon Labs to assert a right or provision under these Terms of Use shall not constitute a waiver of such right or provision.
+If any provision of these Terms of Use is held by a court or other tribunal of competent jurisdiction to be invalid, illegal or unenforceable for any reason, such provision shall be eliminated or limited to the minimum extent such that the remaining provisions of the Terms of Use will continue in full force and effect. 
+Entire Agreement
+These Terms of Use and Privacy Statement constitute the sole and entire agreement between you and Silicon Laboratories Inc. with respect to Simplicity Studio and supersede all prior and contemporaneous understandings, agreements, representations and warranties, both written and oral, with respect to Simplicity Studio. 
+Your Comments and Concerns
+Simplicity Studio is operated by Silicon Laboratories Inc., located at 400 W. Cesar Chavez, Austin, TX 78701.
+All notices to us should be sent to the address above, to the attention of the Legal Department.
+All other feedback, comments, requests for technical support and other communications relating to Simplicity Studio should be directed to http://www.silabs.com/support/pages/default.aspx where you can submit a support ticket.
+PRIVACY STATEMENT
+The following provisions describe our Privacy Statement, including the types of information we may collect from you or that you may provide when you use Simplicity Studio and our practices for collecting, using, maintaining, protecting, and disclosing that information.
+This policy applies to information we collect through your use of Simplicity Studio.
+Children Under the Age of 13
+Simplicity Studio is not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on Simplicity Studio. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on Simplicity Studio or on or through any of its features/register on Simplicity Studio, make any purchases through Simplicity Studio, use any of the interactive or public comment features of Simplicity Studio or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at legal@silabs.com. 
+Information We Collect About You and How We Collect It
+We collect several types of information from and about users of Simplicity Studio, including the following information:
+* Geographic location
+* Installed Studio features
+* Installed system information
+* Kits and hardware used/connected to Studio
+* Specific target hardware used in your projects
+* Program size of projects: Flash/RAM usage
+* Software examples opened
+* Demos executed
+* Usage flow in Studio
+* Documents opened (e.g. data sheets, user guides, app notes)
+* Solutions created by you
+We collect this information:
+* When you log in.
+* Directly from you when you provide it to us.
+* Automatically as you navigate through the application. Information collected automatically may include usage details, IP addresses and other tracking technologies.
+Information You Provide to Us
+The information we collect on or through Simplicity Studio may include:
+* Information that you provide by filling in forms or by using a customer relationship manager (CRM) such as Salesforce.com to register as a user on our website.
+* This includes information provided at the time of registering to use Simplicity Studio, posting material, or requesting further services. We may also ask you for information when you enter a contest or promotion sponsored by us, and when you report a problem with Simplicity Studio.
+* Records and copies of your user name and log-on credentials, which may include your email address when you use your email address as your user name.
+Tracking, Anonymous Tracking, Do Not Track
+Depending on your user preferences, we may track your activities on Simplicity Studio by your user ID or anonymously.  If we collect your data anonymously, your data will be combined with data from all other users and will not be associated with you or your user ID in any manner. If you set your user preferences to allow us to track you anonymously, your use and access to Simplicity Studio will be restricted to "unrestricted" areas and files within Simplicity Studio.
+If you set your user preferences to "Do not track" we will not collect any data concerning your use of Simplicity Studio and your use and access to Simplicity Studio will be restricted to "unrestricted" areas and files within Simplicity Studio.
+You may change your user preferences concerning tracking at any time.  If you change your tracking preference to "Anonymous" we will remove your user ID from all information that we collect from that time forward.  If you change your user preference to "Do not track" we will not collect any data concerning your future use of Simplicity Studio.
+The information we collect automatically is statistical data and may include personal information such as your user ID, or we may maintain it or associate it with personal information we collect in other ways or receive from third parties. It helps us to improve Simplicity Studio and to deliver a better and more personalized service, including by enabling us to:
+* Estimate our audience size and usage patterns.
+* Store information about your preferences, allowing us to customize Simplicity Studio according to your individual interests.
+* Remember your user preferences.
+* Recognize you when you return to Simplicity Studio.
+How We Use Your Information
+We use information that we collect about you or that you provide to us, including any personal information to:
+* Provide you with information, products, or services that you request from us.
+* Fulfill any other purpose for which you provide it.
+* Notify you about changes to Simplicity Studio or any products or services we offer or provide though it.
+* Help us define future hardware products.
+* Help us improve software features associated with Simplicity Studio.
+* Make our content more relevant to our users.
+* Determine our geographical customer base.
+* Improve the overall quality of Simplicity Studio. 
+Disclosure of Your Information
+We may disclose aggregated information about our users, and information that does not identify any individual, without restriction. 
+We may disclose personal information that we collect or you provide as described in this Privacy Statement:
+* To our subsidiaries and affiliates.
+* To contractors, service providers, and other third parties we use to support our business and who are bound by contractual obligations to keep personal information confidential and use it only for the purposes for which we disclose it to them.
+* To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Silicon Labs' assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information held by Silicon Labs about Simplicity Studio users is among the assets transferred.
+* To fulfill the purpose for which you provide it. For example, if you give us an email address to use the "email a friend" feature of Simplicity Studio, we will transmit the contents of that email and your email address to the recipients.
+* For any other purpose disclosed by us when you provide the information.
+* With your consent.
+We may also disclose your personal information:
+* To comply with any court order, law, or legal process, including to respond to any government or regulatory request.
+* To enforce or apply these Terms of Use.
+* If we believe disclosure is necessary or appropriate to protect our rights, property, or safety or that of our customers or other third parties. 
+Choices About How We Collect Your Information
+We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information: 
+You can set your user preferences to control whether and how we collect information concerning your use of Simplicity Studio.  You can set your User Experience as follows:
+* Simplicity Studio login experience tracking - We will collect information about your user experience and it will be associated with your user ID.  You will have access to all areas of Simplicity Studio.
+* Anonymous experience tracking - We will collect information about your user experience and it will NOT be associated with your user ID.  Your information will be combined with all others users' data.  You will have access only to unrestricted areas of Simplicity Studio.
+* Do not track experience - We will not collect any information about your user experience.  You will have access only to unrestricted areas of Simplicity Studio. 
+You can review and change your personal information by logging into your account on the CRM. You may access the Salesforce.com CRM at www.siliconlabs.force.com. 
+You can change your User Experience settings at any time. 
+Data Security
+We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration, and disclosure. All information you provide to us is stored on our secure servers behind firewalls. 
+The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of Simplicity Studio, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.
+Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to Simplicity Studio. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on Simplicity Studio. 
+Changes to Our Privacy Statement
+It is our policy to post any changes we make to our Privacy Statement with a notice that the Terms of Use and Privacy Statement has been updated on Simplicity Studio home page. The date the Terms of Use and Privacy Statement was last revised is identified at the top of the page.
