@@ -1,0 +1,8 @@
+source: https://github.com/Z-Wave-Alliance/z-wave-stack
+commit: fc241df28d8d3d14034046b1d6a26d846759d753
+describe: v26.8.0-30-gfc241df
+workflow run: https://github.com/Z-Wave-Alliance/z-wave-stack/actions/runs/43029245272
+runner: Linux X64 ubuntu26 20261101.186.1
+cmake: -S SubTree/libs2 -DCMAKE_BUILD_TYPE=Release -DLIBS2_CRYPTO_SHARED=ON -DCMAKE_C_FLAGS=-m32
+compiler: cc (Ubuntu 15.2.0-16ubuntu1) 15.2.0
+sha256: cdde048009419725b734f2a3af53acd0389087fdca2e32e437c907d682e88eb1
