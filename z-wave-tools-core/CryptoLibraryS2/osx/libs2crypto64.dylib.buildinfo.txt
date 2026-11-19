@@ -1,0 +1,8 @@
+source: https://github.com/Z-Wave-Alliance/z-wave-stack
+commit: fc241df28d8d3d14034046b1d6a26d846759d753
+describe: v26.8.0-30-gfc241df
+workflow run: https://github.com/Z-Wave-Alliance/z-wave-stack/actions/runs/43029245272
+runner: macOS ARM64 macos26 20261102.0473.1
+cmake: -S SubTree/libs2 -DCMAKE_BUILD_TYPE=Release -DLIBS2_CRYPTO_SHARED=ON -DCMAKE_OSX_ARCHITECTURES=x86_64;arm64 -DCMAKE_OSX_DEPLOYMENT_TARGET=11.0
+compiler: Apple clang version 21.0.0 (clang-2100.1.1.101)
+sha256: 982c77f1dfb7d32726f43bc87926343fd8393cc57cbd38c60a37e95eb50e98b8

@@ -1,0 +1,8 @@
+source: https://github.com/Z-Wave-Alliance/z-wave-stack
+commit: fc241df28d8d3d14034046b1d6a26d846759d753
+describe: v26.8.0-30-gfc241df
+workflow run: https://github.com/Z-Wave-Alliance/z-wave-stack/actions/runs/43029245272
+runner: Windows X64 win25-vs2026 20261103.298.1
+cmake: -S SubTree/libs2 -A Win32 -DLIBS2_CRYPTO_SHARED=ON, --config Release
+compiler: set(CMAKE_C_COMPILER_ID "MSVC") set(CMAKE_C_COMPILER_VERSION "19.51.36260.0") 
+sha256: a3a8d8bb8989dcd1c9702da5a13bacd1bf6a6e168a15aa0474fbd1b442bc11cb
